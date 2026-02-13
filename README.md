@@ -45,7 +45,7 @@ These notes are created during learning and revision to strengthen conceptual un
 - PySpark  
 - Apache Spark  
 - Data Warehousing  
-- ETL / ELT Pipelines  
+- ETL Pipelines  
 - Cloud Data Platforms (Basics)
 
 ---
