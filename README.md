@@ -16,7 +16,9 @@ The **`notes/`** folder contains images of my **handwritten notes** related to *
 - Data Engineering fundamentals  
 - Data pipelines & ETL concepts  
 - Big Data basics  
-- Spark / PySpark notes  
+- Spark / PySpark notes
+- Databricks notes
+- Azure Fundamentals
 - Data Warehousing & Analytics concepts  
 
 These notes are created during learning and revision to strengthen conceptual understanding.
