@@ -61,7 +61,7 @@ This repository is for **educational purposes only**. The notes reflect my perso
 ## 👤 Author
 
 **Aakib Khan**  
-Aspiring Data Engineer | PySpark | SQL | Cloud  
+Aspiring Data Engineer
 
 ---
 
